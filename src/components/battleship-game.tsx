@@ -204,7 +204,7 @@ export default function BattleshipGame() {
       pointsEarned: pointsEarned.toString(),
     });
 
-    window.location.href = `http://localhost:3000/?${params.toString()}`;
+    window.location.href = `https://www.empireofbits.fun/?${params.toString()}`;
   };
 
   const playSound = (sound: HTMLAudioElement | null) => {
