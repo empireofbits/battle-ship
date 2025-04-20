@@ -137,7 +137,7 @@ export default function BattleshipGame() {
   const initializeGame = async (userId: string) => {
     try {
       const response = await fetch(
-        "https://backend.empireofbits.fun/api/v1/games/battleship",
+        "https://backend1.empireofbits.fun/api/v1/games/battleship",
         {
           method: "POST",
           headers: {
@@ -162,7 +162,7 @@ export default function BattleshipGame() {
 
     try {
       const response = await fetch(
-        `https://backend.empireofbits.fun/api/v1/games/battleship/${userId}/result`,
+        `https://backend1.empireofbits.fun/api/v1/games/battleship/${userId}/result`,
         {
           method: "POST",
           headers: {
