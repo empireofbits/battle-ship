@@ -101,7 +101,7 @@ export default function BattleshipGame() {
   const [movesUsed, setMovesUsed] = useState(0);
   const [userId, setUserId] = useState<string | null>(null);
   const searchParams = useSearchParams();
-  const params = searchParams.get("query");
+  const params = searchParams.get("wallet");
 
   const hitSound = useRef<HTMLAudioElement | null>(null);
   const missSound = useRef<HTMLAudioElement | null>(null);
