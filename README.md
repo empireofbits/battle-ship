@@ -2,7 +2,7 @@
 
 Battle. Strategize. Earn. Claim victory on the grid and turn your wins into real-world gains.
 
-[🔗 Play Now](https://battleship-jade.vercel.app/)  
+[🔗 Play Now](https://battleship.empireofbits.fun/)  
 [🌐 Powered by EmpireOfBits](https://www.empireofbits.fun/)
 
 ---
@@ -97,13 +97,13 @@ With Battleship, we bridge the gap between **nostalgic gameplay** and **financia
 
 ## 🛠 Roadmap
 
-| Status     | Milestone                 | Goal                                                                      |
-| ---------- | ------------------------- | ------------------------------------------------------------------------- |
-| ✅ Done    | Game Deployment           | [Live at battleship-jade.vercel.app](https://battleship-jade.vercel.app/) |
-| ✅ Done    | Win-based Point System    | Users earn Empire Points on win                                           |
-| ⏳ Q2 2025 | Point Vesting Integration | Allow users to lock points for high-yield vesting                         |
-| ⏳ Q2 2025 | Badge + Tournament System | Boost replayability through gamification                                  |
-| ⏳ Q3 2025 | Token Swap + $SOL Feature | Convert Empire Points into real-world tokens                              |
+| Status     | Milestone                 | Goal                                                                       |
+| ---------- | ------------------------- | -------------------------------------------------------------------------- |
+| ✅ Done    | Game Deployment           | [Live at battleship-jade.vercel.app](https://battleship.empireofbits.fun/) |
+| ✅ Done    | Win-based Point System    | Users earn Empire Points on win                                            |
+| ⏳ Q2 2025 | Point Vesting Integration | Allow users to lock points for high-yield vesting                          |
+| ⏳ Q2 2025 | Badge + Tournament System | Boost replayability through gamification                                   |
+| ⏳ Q3 2025 | Token Swap + $SOL Feature | Convert Empire Points into real-world tokens                               |
 
 ---
 
@@ -119,7 +119,7 @@ With Battleship, we bridge the gap between **nostalgic gameplay** and **financia
 
 ## 🚦 Getting Started
 
-1. 🔗 Visit [https://battleship-jade.vercel.app/](https://battleship-jade.vercel.app/)
+1. 🔗 Visit [https://battleship.empireofbits.fun/](https://battleship.empireofbits.fun/)
 2. 🎮 Arrange your ships and face off against another player.
 3. 🔴 Click, attack, and dominate.
 4. 🏁 Win to earn Empire Points.
@@ -138,4 +138,4 @@ With Battleship, we bridge the gap between **nostalgic gameplay** and **financia
 
 **Powered by EmpireOfBits**  
 **Strategy is your weapon. Victory is your currency.**  
-🔗 [Play Now](https://battleship-jade.vercel.app/) | 🌐 [Main Site](https://www.empireofbits.fun/)
+🔗 [Play Now](https://battleship.empireofbits.fun/) | 🌐 [Main Site](https://www.empireofbits.fun/)
