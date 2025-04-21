@@ -71,8 +71,6 @@ EmpireOfBits Battleship transforms a nostalgic strategy game into a rewarding ex
 
 ## 🖼 Screenshots
 
-> 📸 Add your screenshots in the `assets/` folder or use hosted URLs.
-
 **Game UI**  
 ![Game UI](/public/assets/battleship1.jpg)
 
