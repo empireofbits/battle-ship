@@ -137,7 +137,7 @@ export default function BattleshipGame() {
   const initializeGame = async (walletAddress: string) => {
     try {
       const response = await fetch(
-        "http://127.0.0.1:3001/api/v1/games/battleship",
+        "https://be1.rostrafi.fun/api/v1/games/battleship",
         {
           method: "POST",
           headers: {
@@ -163,7 +163,7 @@ export default function BattleshipGame() {
 
     try {
       const response = await fetch(
-        `http://127.0.0.1:3001/api/v1/games/battleship/${walletAddress}/result`,
+        `https://be1.rostrafi.fun/api/v1/games/battleship/${walletAddress}/result`,
         {
           method: "POST",
           headers: {
@@ -205,7 +205,7 @@ export default function BattleshipGame() {
       pointsEarned: pointsEarned.toString(),
     });
 
-    window.location.href = `http://localhost:3000/?${params.toString()}`;
+    window.location.href = `https://www.rostrafi.fun/?${params.toString()}`;
   };
 
   const playSound = (sound: HTMLAudioElement | null) => {
